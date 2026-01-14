@@ -1,0 +1,13 @@
+joblib
+numpy
+pandas
+Pillow
+python-dateutil
+pytz
+scikit-learn
+scipy
+six
+threadpoolctl
+torch
+typing_extensions
+QuantLib
